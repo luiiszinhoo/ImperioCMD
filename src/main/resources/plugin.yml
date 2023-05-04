@@ -1,0 +1,4 @@
+name: ImperioCMDS
+version: '${project.version}'
+main: luisera.imperiocmds.ImperioCMDS
+api-version: 1.19
