@@ -1,5 +1,5 @@
 name: ImperioCMDS
-version: '${project.version}'
+version: '1.0-SNAPSHOT'
 main: luisera.imperiocmds.ImperioCMDS
 api-version: 1.19
 author: [offluisera]
